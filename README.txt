@@ -1,3 +1,3 @@
 url: ../Acceso/Iniciar
-Usuario: Admin@misena.edu.co
+Usuario: admin@fabrica.com
 Contraseña: 123123123
